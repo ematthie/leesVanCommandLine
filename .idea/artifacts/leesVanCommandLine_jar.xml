@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="leesVanCommandLine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/leesVanCommandLine_jar</output-path>
+    <root id="archive" name="leesVanCommandLine.jar">
+      <element id="module-output" name="leesVanCommandLine" />
+    </root>
+  </artifact>
+</component>
